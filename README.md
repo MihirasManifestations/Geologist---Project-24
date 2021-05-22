@@ -1,1 +1,2 @@
-# Geologist---Project-24
+# Geologist
+Geologist Project
